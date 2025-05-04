@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../BDU_6_channels"
+		},
+		{
+			"name": "Game",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
